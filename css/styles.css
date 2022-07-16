@@ -1,0 +1,59 @@
+.eee i {
+  color: red;
+}
+
+p.bbb {
+  color: red;
+}
+
+p .ggg {
+  color: green;
+}
+
+.rrr p .qqq {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
+
+.large {
+  font-size: 30px;
+}
+
+.small {
+  font-size: 20px;
+}
+
+.ggwp {
+  font-size: 35px;
+}
+
+.laguna {
+  color: blue;
+}
+
+.cica {
+  font-family: Arial;
+}
+
+#elem1 {
+  color: red;
+}
+
+#elem2 {
+  color: green;
+}
+
+#elem .text {
+  color: red;
+}
+
+#elem li .text {
+  color: red;
+}
